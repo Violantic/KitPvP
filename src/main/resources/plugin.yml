@@ -1,0 +1,11 @@
+name: FadeKITPVP
+version: v0.1.4
+main: me.borawski.pvp.LevelPlugin
+description: Custom kitpvp plugin for fadecloud
+
+commands:
+     level:
+          description: Check your kitpvp level!
+          aliases: [l, ilvl, kitlevel, whatsmylevel]
+     flsave:
+          description: Save all player data in DB!
